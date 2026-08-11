@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-algorithms",
+      "title": "Python Algorithms",
+      "description": "Practice beginner search and sorting algorithms using Python lists and functions.",
+      "path": "assignments/python-algorithms",
+      "dueDate": "2026-08-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
